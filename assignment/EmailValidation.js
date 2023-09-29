@@ -1,5 +1,8 @@
+
+//Quiz 4a) program that validates an email and password
+
 class EmailPasswordValidator {
-    // Static method that validates an email address
+    // Static method that validates an email address and Password
 
     static validateEmail(email) {
         //defining a regular expression matching syntax and returns true if the email is valid 
