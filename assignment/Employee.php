@@ -1,6 +1,6 @@
 <?php 
 //QUIZ 4a
-//Employee Implementation Using Javascript Programming Language using the OOps concept of Objects and Classes 
+//Employee Implementation Using PHP Programming Language showing the OOP concept of Objects and Classes 
 //in Addition To The Use of Inheritance capability 
 ?>
 
