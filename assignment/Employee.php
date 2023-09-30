@@ -5,7 +5,7 @@
 ?>
 
 <?php
-// person class
+// person class as the Base Class
 class Person {
     public $firstName;
     public $lastName;

@@ -3,7 +3,7 @@
 //Employee Implementation Using Javascript Programming Language show casing  the OOP concept of Objects and Classes 
 //in Addition To The Use of Inheritance capability 
 
-// Person class
+// Person class as the Base Class
 class Person {
     constructor(firstName, lastName, dateOfBirth) {
         this.firstName = firstName;

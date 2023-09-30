@@ -1,5 +1,5 @@
 
-//Quiz 4a) program that validates an email and password
+//Quiz 4b) program that validates an email and password
 
 class EmailPasswordValidator {
     // Static method that validates an email address and Password
